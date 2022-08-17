@@ -1,0 +1,13 @@
+{
+    "name": "cmddesenvolvimentos/pdf",
+    "description": "Exportação de dados em PDF.",
+    "authors": [
+        {
+            "name": "cmddesenvolvimentos",
+            "email": "cmddesenvolvimento@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.1"
+    }
+}
